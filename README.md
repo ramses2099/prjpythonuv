@@ -5,6 +5,7 @@ Project example using uv package manager
 pip install uv
 
 # Init project
+```
 $ uv init [PROJECT_NAME]
 Initialized project `[PROJECT_NAME]` at `/home/user/[PROJECT_NAME]`
 
@@ -23,3 +24,4 @@ Installed 2 packages in 1ms
 $ uv run ruff check
 All checks passed!
 
+```
