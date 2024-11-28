@@ -25,3 +25,9 @@ $ uv run ruff check
 All checks passed!
 
 ```
+# Install Pytest
+uv add --dev pytest
+```
+$ uv run pytest
+```
+
